@@ -1,0 +1,207 @@
+[message]2017/05/09 09:41:08 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:41:08 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:41:08 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:41:08 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:41:08 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:41:08 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:41:08 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:41:09 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:41:09 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:41:09 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:41:09 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:41:09 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:41:09 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:41:09 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:41:10 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:41:10 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:41:10 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:41:10 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:41:10 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:41:10 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:41:10 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:41:16 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:41:16 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:41:16 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:41:16 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:41:16 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:41:16 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:41:16 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:41:16 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:41:16 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:41:16 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:41:16 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:41:16 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:41:16 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:41:16 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:41:16 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:41:16 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:41:16 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:41:16 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:41:16 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:41:16 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:41:16 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:41:16 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:41:16 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:41:16 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:41:16 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:41:16 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:41:17 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:41:17 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:41:17 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:41:17 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:41:17 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:41:17 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:41:17 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:41:17 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:41:17 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:41:17 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:41:17 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:41:17 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:41:17 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:42:03 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:42:03 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:42:03 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:42:03 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:42:03 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:42:03 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:42:03 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:42:03 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:42:03 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:42:03 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:42:03 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:42:03 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:42:03 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:42:36 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:42:36 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:42:36 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:42:36 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:42:36 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:42:36 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:42:36 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:42:36 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:42:36 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:42:36 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:42:36 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:42:36 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:42:36 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:42:38 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:42:38 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:42:38 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:42:38 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:42:38 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:42:38 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:42:38 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:42:38 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:42:38 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:42:38 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:42:38 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:42:38 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:42:38 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:42:39 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:42:39 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:42:39 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:42:39 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:42:39 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:42:39 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:42:39 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:42:39 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:42:39 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:42:39 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:42:39 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:42:39 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:42:39 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:42:40 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:42:40 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:42:40 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:42:40 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:42:40 cli.go:72: httpserver recv  map[argv:[foo] command:[GET]]
+[message]2017/05/09 09:42:40 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:42:40 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:42:40 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 09:42:40 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 09:42:40 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 09:42:40 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 09:42:40 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:42:40 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:46:43 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:46:43 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:46:43 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:46:43 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:46:44 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:46:44 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:46:44 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:46:49 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:46:49 cli.go:72: httpserver recv  map[command:[GET] argv:[foo]]
+[message]2017/05/09 09:46:49 cli.go:111: httpserver Request: Request({Command:GET Argc:1 Argv:[foo]})
+[message]2017/05/09 09:46:49 cli.go:128: OK : httpserver recv [张聪]
+[message]2017/05/09 09:46:49 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:46:49 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:46:49 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:47:06 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:47:06 cli.go:72: httpserver recv  map[argv:[foo,abcd] command:[SET]]
+[message]2017/05/09 09:47:06 cli.go:111: httpserver Request: Request({Command:SET Argc:2 Argv:[foo abcd]})
+[message]2017/05/09 09:47:06 cli.go:128: OK : httpserver recv [OK]
+[message]2017/05/09 09:47:06 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:47:06 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:47:06 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 09:47:55 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:47:55 cli.go:72: httpserver recv  map[command:[SET] argv:[foo,abcd]]
+[message]2017/05/09 09:47:55 cli.go:111: httpserver Request: Request({Command:SET Argc:2 Argv:[foo abcd]})
+[message]2017/05/09 09:47:55 cli.go:128: OK : httpserver recv [OK]
+[message]2017/05/09 09:47:55 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 09:47:55 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 09:47:55 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 10:49:19 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 10:49:19 cli.go:72: httpserver recv  map[command:[SET] argv:[foo,张聪]]
+[message]2017/05/09 10:49:19 cli.go:111: httpserver Request: Request({Command:SET Argc:2 Argv:[foo 张聪]})
+[message]2017/05/09 10:49:19 cli.go:128: OK : httpserver recv [OK]
+[message]2017/05/09 10:49:19 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 10:49:19 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 10:49:19 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 14:05:03 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 14:05:03 cli.go:72: httpserver recv  map[command:[SET] argv:[foo,张聪]]
+[message]2017/05/09 14:05:03 cli.go:111: httpserver Request: Request({Command:SET Argc:2 Argv:[foo 张聪]})
+[message]2017/05/09 14:05:03 cli.go:128: OK : httpserver recv [OK]
+[message]2017/05/09 14:05:03 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 14:05:03 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 14:05:03 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 14:05:05 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 14:05:05 cli.go:72: httpserver recv  map[command:[SET] argv:[foo,张聪]]
+[message]2017/05/09 14:05:05 cli.go:111: httpserver Request: Request({Command:SET Argc:2 Argv:[foo 张聪]})
+[message]2017/05/09 14:05:05 cli.go:128: OK : httpserver recv [OK]
+[message]2017/05/09 14:05:05 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 14:05:05 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 14:05:05 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 14:05:43 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 14:05:43 cli.go:72: httpserver recv  map[command:[SET] argv:[foo,张聪]]
+[message]2017/05/09 14:05:43 cli.go:111: httpserver Request: Request({Command:SET Argc:2 Argv:[foo 张聪]})
+[message]2017/05/09 14:05:43 cli.go:128: OK : httpserver recv [OK]
+[message]2017/05/09 14:05:43 cli.go:28: thrift server server on  127.0.0.1 19090
+[message]2017/05/09 14:05:43 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 14:05:43 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 14:05:58 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 14:05:58 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 14:05:58 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 14:05:58 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 14:05:58 cli.go:72: httpserver recv  map[argv:[foo,张聪] command:[SET]]
+[message]2017/05/09 14:05:58 cli.go:111: httpserver Request: Request({Command:SET Argc:2 Argv:[foo 张聪]})
+[message]2017/05/09 14:05:58 cli.go:128: OK : httpserver recv [OK]
+[message]2017/05/09 14:05:58 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 14:05:58 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 14:05:58 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 14:05:58 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 14:05:58 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 14:05:58 cli.go:76: httpserver cannot get  the command from url
+[message]2017/05/09 14:06:01 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 14:06:01 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 14:06:01 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 14:06:01 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 14:06:01 cli.go:72: httpserver recv  map[command:[SET] argv:[foo,张聪]]
+[message]2017/05/09 14:06:01 cli.go:111: httpserver Request: Request({Command:SET Argc:2 Argv:[foo 张聪]})
+[message]2017/05/09 14:06:01 cli.go:128: OK : httpserver recv [OK]
+[message]2017/05/09 14:06:01 cli.go:28: thrift server server on  127.0.0.1 19090
+[err]2017/05/09 14:06:01 cli.go:39: thrift cannot open socket server on  127.0.0.1 19090
+[err]2017/05/09 14:06:01 cli.go:58: [alert]master is down!!!!
+[message]2017/05/09 14:06:01 cli.go:28: thrift server server on  127.0.0.1 19091
+[message]2017/05/09 14:06:01 cli.go:72: httpserver recv  map[]
+[err]2017/05/09 14:06:01 cli.go:76: httpserver cannot get  the command from url

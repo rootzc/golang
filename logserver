@@ -1,0 +1,25 @@
+[err]2017/05/09 09:40:54 server.go:153: thrift server in  127.0.0.1:19090
+[err]2017/05/09 09:40:59 server.go:153: thrift server in  127.0.0.1:19091
+[message]2017/05/09 09:41:08 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:41:09 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:41:10 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:41:16 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:41:16 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:41:17 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:42:03 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:42:36 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:42:38 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:42:39 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:42:40 server.go:58: sucess ,get : [张聪]
+[err]2017/05/09 09:46:30 server.go:153: thrift server in  127.0.0.1:19090
+[err]2017/05/09 09:46:33 server.go:153: thrift server in  127.0.0.1:19091
+[message]2017/05/09 09:46:43 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:46:49 server.go:58: sucess ,get : [张聪]
+[message]2017/05/09 09:47:06 server.go:99: sucess , get Result: [OK]
+[message]2017/05/09 09:47:55 server.go:99: sucess , get Result: [OK]
+[message]2017/05/09 10:49:19 server.go:99: sucess , get Result: [OK]
+[message]2017/05/09 14:05:03 server.go:99: sucess , get Result: [OK]
+[message]2017/05/09 14:05:05 server.go:99: sucess , get Result: [OK]
+[message]2017/05/09 14:05:43 server.go:99: sucess , get Result: [OK]
+[message]2017/05/09 14:05:58 server.go:99: sucess , get Result: [OK]
+[message]2017/05/09 14:06:01 server.go:99: sucess , get Result: [OK]
